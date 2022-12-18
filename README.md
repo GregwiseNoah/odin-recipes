@@ -1,2 +1,6 @@
 # odin-recipes
-recipe website created as per the odin project web development course
+
+<h1> Recipe website</h1>
+Recipe website created as per the odin project web development course.
+
+

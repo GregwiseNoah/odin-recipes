@@ -1,0 +1,21 @@
+body {
+    background-color: grey;
+}
+h1 {
+    font-weight: bold;
+    text-align: center;
+    font-size: xx-large;
+    color: palegreen;
+}
+
+a {
+    color: wheat;
+    font-size: 22px;
+    text-align: center;
+    transition: background-color 2s, transform 1s;
+}
+
+a:hover {
+    background-color: #494242;
+  rotate: 180deg;
+}
